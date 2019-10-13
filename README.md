@@ -8,6 +8,9 @@ react native typescript template project
 ### 2-1. install rename tool 
    `npm install react-native-rename -g`
 ### 2-2. rename your project's App Name.
-   example=> `react-native-rename "YourAppName" -b com.your.appname`
-   
-## 3. Enjoy your code
+   `react-native-rename "YourAppName"`
+
+## 3. recovery androids, ios
+   `react-native upgrade --legacy`
+
+## 4. Enjoy your code
